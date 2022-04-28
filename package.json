@@ -1,0 +1,26 @@
+{
+  "name": "firstnpm",
+  "version": "0.1.0",
+  "description": "this module allows for a dynamic footer to be generated for JS application with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJmatos2/AJM-JS-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "amatos217@gmail.com (https://www.npmjs.com/~amatos217)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AJmatos2/AJM-JS-footer/issues"
+  },
+  "homepage": "https://github.com/AJmatos2/AJM-JS-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.3",
+    "save": "^2.5.0"
+  }
+}
